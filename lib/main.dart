@@ -26,7 +26,7 @@ class Myapps extends StatelessWidget {
       child: MaterialApp(
         // home: CounterScreen(),
         // home: SwithcScreen(),
-        home: ImagePickerScreen(),
+        // home: ImagePickerScreen(),
       ),
     );
   }
